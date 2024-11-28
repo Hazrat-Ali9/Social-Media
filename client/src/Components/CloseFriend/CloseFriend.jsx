@@ -10,4 +10,6 @@ export default function CloseFriend({user}) {
   )
 }
 
+// Close Friend 
+
 
