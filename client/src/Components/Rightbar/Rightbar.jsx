@@ -135,3 +135,5 @@ export default function Rightbar({ user }) {
     </div>
   );
 }
+
+/* Rightbar jsx */
