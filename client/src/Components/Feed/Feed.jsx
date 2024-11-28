@@ -50,3 +50,4 @@ export default function Feed({ username }) {
     </div>
   );
 }
+// Feed jsx 
