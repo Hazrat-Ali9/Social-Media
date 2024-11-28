@@ -16,3 +16,5 @@ export default function Online({user}) {
       </li>
     )
 }
+
+// online jsx 
