@@ -44,3 +44,5 @@ const AuthReducer = (state, action) => {
 };
 
 export default AuthReducer;
+
+// Auth Reducer jsx
